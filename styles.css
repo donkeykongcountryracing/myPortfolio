@@ -1,0 +1,15 @@
+.header {
+  font-family: "Times New Roman", Times, serif;
+  border-radius: 50px;
+  background-color: aquamarine;
+  padding: 2em;
+  text-align: center;
+}
+.background {
+  background-color: bisque;
+}
+.title {
+  text-align: center;
+  border-radius: 100px;
+  background-color: lightpink;
+}
